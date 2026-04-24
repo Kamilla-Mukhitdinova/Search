@@ -21,3 +21,4 @@ python app/main.py
 ## Сборка для Windows
 
 Смотрите файл [WINDOWS_BUILD.md](WINDOWS_BUILD.md).
+# search_app
